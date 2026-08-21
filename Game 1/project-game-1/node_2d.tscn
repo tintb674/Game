@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 [gd_scene format=3 uid="uid://mursj6f4vtxg"]
+=======
+[gd_scene format=3 uid="uid://ki4xdpnv314i"]
+>>>>>>> 4ec88a79b4b4661c4f1b75248369400413aecba4
 
 [node name="Node2D" type="Node2D" unique_id=1328928152]
 position = Vector2(512, 395)
